@@ -22,7 +22,9 @@
 
 - Navigate to the "bootanimation" folder in this repository and download the appropriate boot animation zip file for your device's screen resolution.
 
-- Choose from the available options: 720p, 1080p, and 1440p. These represent different screen resolutions commonly found on Android devices (720p for HD, 1080p for Full HD, and 1440p for Quad HD). If you're unsure about your device's resolution, you can check your device specifications online or through your device's settings.
+2. Choose from the available options: 720p, 1080p, and 1440p. 
+
+- These represent different screen resolutions commonly found on Android devices (720p for HD, 1080p for Full HD, and 1440p for Quad HD). If you're unsure about your device's resolution, you can check your device specifications online or through your device's settings.
 
 3. Rename the Downloaded Zip File:
 
