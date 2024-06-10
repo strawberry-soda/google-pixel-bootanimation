@@ -1,4 +1,4 @@
-# Google Pixel Monet Theme Bootanimation
+# Google Pixel Monet Themed Bootanimation
 
 ## Prerequisites
 
@@ -44,9 +44,7 @@
 
 - In the "Attributes" section, ensure that the permissions match those shown in the provided screenshot below.
 
-<p align="center">
-  <img src="Screenshot.png" alt="Screenshot" style="border-radius: 10px;">
-</p>
+![](Screenshot.png)
 
 5. Reboot: Reboot your device, and enjoy the new Google Pixel boot animation!
 
