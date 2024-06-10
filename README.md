@@ -1,10 +1,12 @@
-**Prerequisites**
+# Google Pixel Monet Theme Bootanimation
+
+## Prerequisites
 
 - Root access on your Android device.
 
 - File manager with root access (Recommended: Solid File Explorer)
 
-**Disclaimer**
+## Disclaimer
 
 - Root Access: Rooting your device and modifying system files can void your warranty and may lead to unforeseen issues. Proceed with caution and at your own risk.
 
@@ -14,7 +16,7 @@
 
 - Legal: The Google Pixel boot animation files included in this repository are derived from the vendor_aosp repository under the PixelOS organization on GitHub. These files are subject to the Apache License, Version 2.0. Please refer to the LICENSE file for more information.
 
-**Steps to Change Boot Animation**
+## Steps to Change Boot Animation
 
 1. Download the Boot Animation Files:
 
@@ -42,11 +44,13 @@
 
 - In the "Attributes" section, ensure that the permissions match those shown in the provided screenshot below.
 
-![](Screenshot.png)
+<p align="center">
+  <img src="Screenshot.png" alt="Screenshot" style="border-radius: 10px;">
+</p>
 
 5. Reboot: Reboot your device, and enjoy the new Google Pixel boot animation!
 
-**License and Attribution**
+## License and Attribution
 
 The Google Pixel boot animation files included in this repository are licensed under the Apache License, Version 2.0. The original copyright and license information for these files are as follows:
 
